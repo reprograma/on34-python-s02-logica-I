@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Variáveis, tipos, operadores e funções
 
 Turma Online On34 | Python | Semana 02 | 2024 | <a href="https://www.linkedin.com/in/maiarar/" target="_blank" rel="noopener noreferrer">Professora Maiara Rodrigues</a>
 
