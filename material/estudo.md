@@ -45,26 +45,26 @@ Quem quiser fazer, posso corrigir 🙌
 
 ### Sistema de uma empreiteira
 
-Crie um sistema, dessa vez para uma empreiteira. Ele deve contemplar os seguintes requisitos:
-- Um menu de entrada, onde o usuário vai poder selecionar a opção que ele quer que seja executada.
-- Saídas descrevendo o que o usuário selecionou, mais o resultado final
-- As opções devem ser:
+Crie um conjunto de funções, dessa vez para uma empreiteira. Ele deve contemplar os seguintes requisitos:
+- Funções, cada uma delas contendo uma operação
+- As saídas devem conter o que o usuário selecionou, mais o resultado final
+- As funções devem ser:
 1. Conversor de metros para centímetros
-   1. Ao selecionar essa opção, ele vai poder digitar na sequência a entrada em metros, para ser mostrado depois o valor em centímetros
+   1. Aqui, ele vai poder digitar na sequência a entrada em metros, para ser mostrado depois o valor em centímetros
    2. Mostre a saída informando qual foi o valor de entrada, e qual o de saída
 2. Calculadora de área de círculo
    1. Será pedido o raio de um círculo, e depois exibida sua área
 3. Calculadora de área de um terreno quadrado 
-   1. Nessa opção, deve se calcular a área do terreno
+   1. Aqui, deve se calcular a área do terreno
    2. Também deve se calcular o dobro da área
-5. Cálculo de temperatura do local da obra - FaFahrenheit para Celsius
+4. Cálculo de temperatura do local da obra - FaFahrenheit para Celsius
    1.  Peça a entrada em Fahrenheit, e mostre a saída em Celsius
     > C = 5 * ((F-32) / 9). 
-6. Cálculo da temperatura do local da obra - Celsius para Fahrenheit
-4. Calculadora das horas de trabalho totais dos obreiros
+5. Cálculo da temperatura do local da obra - Celsius para Fahrenheit
+6. Calculadora das horas de trabalho totais dos obreiros
    1. Deve se informar a quantidade de trabalhadores para a obra, quanto cada um ganha por hora, e as horas trabalhadas por mês
    2. Calcule o valor bruto do salário final de um obreiro, e o custo total de salários de todos os obreiros para o mês referido
-5. Calculadora do salário líquido de um obreiro
+7. Calculadora do salário líquido de um obreiro
    1. Pergunte quanto um obreiro ganha por hora e o número de horas trabalhadas no mês
    2. De acordo com a [tabela do IR de 2024](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2024), e considerando que a **contribuição ao INSS é de 8%**, e ao **Sindicato é 5%**, retorne na saída:
     ```
