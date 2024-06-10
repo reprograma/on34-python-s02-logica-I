@@ -14,8 +14,6 @@ Antes de começar, vamos organizar nosso setup.
 
 ## <a name='Resumo'></a>Resumo
 <!-- vscode-markdown-toc -->
-	* [Instruções](#Instrues)
-	* [Resumo](#Resumo)
 - [Variáveis, tipos, operadores e funções](#variáveis-tipos-operadores-e-funções)
   - [Instruções](#instruções)
   - [Resumo](#resumo)
