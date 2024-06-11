@@ -1,0 +1,6 @@
+print(1==1)
+print(1!=4)
+print(1>0)
+print(1<3)
+print(56>=55)
+print(45<=45)
