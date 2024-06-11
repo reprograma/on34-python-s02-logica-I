@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora simples que realiza operações básicas, 
 
 Vamos lá! 😊
 
-Algumas funcionalidades aprendidas durante a S02/Professora Mai- Reprograma.
+ Algumas funcionalidades aprendidas durante a S02/Professora Mai- Reprograma.
 
 Adição (➕): Soma dois números.
 Subtração (➖): Subtrai o segundo número do primeiro.
