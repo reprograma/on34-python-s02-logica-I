@@ -1,5 +1,5 @@
 print("Ola Mundo de Jennifer- Exercio Aula 2")
-### Soma
+### Calculadora 1 /Soma com Função : 
 def soma(a, b):
   return a + b
 
@@ -9,7 +9,7 @@ def multiplicacao(a, b):
 def potenciacao(a, b):
   return a ** b
 
-# Formas utilizadas:
+# Calculadora 2/ Utilizando if e Else e Par_Impar
 print(f"A Soma de 15 e 8: {soma(15, 8)}")
 print(f"A Multiplicação de 4 e 2: {multiplicacao(4, 2)}")
 print(f"A Potenciação de 2 elevado a 3: {potenciacao(2, 3)}")
@@ -29,7 +29,7 @@ resultado = par_ou_impar(int(numero))
 print(f"O número {numero} é {resultado}.")
 
 
-### Formato 2 
+### Calculadora 3/ Soma simples
 print("2º Formato de resolução matemática")
 ##
 soma=(100+50)
