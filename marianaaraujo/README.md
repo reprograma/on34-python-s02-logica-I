@@ -1,0 +1,1 @@
+Atividade realizada na semana de aprendizagem sobre variáveis, tipos, operadores e funções o/
