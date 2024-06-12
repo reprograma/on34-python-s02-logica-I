@@ -16,10 +16,17 @@ Criar uma calculadora, onde o usuário insira dois valores (x,y), e, após a ent
 - Trazer o número resultante de cada operação é ímpar
 
 ## Checklist
+
 [X] Fiz o fork do repositório.
+
 [X] Clonei o fork na minha máquina ( git clone url-do-meu-fork).
+
 [X] Resolvi o exercício.
+
 [X] Adicionei as mudanças. ( git add .para adicionar todos os arquivos, ou git add nome_do_arquivopara adicionar um arquivo específico)
+
 [X]Comprometi cada mudança significativa ou na finalização do exercício ( git commit -m "Mensagem do commit")
+
 [X]Pushei os commits na minha branch ( git push origin nome-da-branch)
+
 [X]Criei um Pull Request
