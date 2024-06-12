@@ -35,19 +35,19 @@ Lembramos que o projeto é aberto para modificações e melhorias, caso tenha in
 
 ## Checklist
 
- - [ ] Dar um Fork no repositório da aula original 
- - [ ] Clonar o repositório para a própria máquina
- - [ ] Criar uma pasta com o seu nome 
- - [ ] Criar um arquivo README.md
- - [ ] Criar função para adição
- - [ ] Criar função para subtração 
- - [ ] Criar função para multiplicação
- - [ ] Criar função para divisão 
- - [ ] Criar função para potenciação
+ - [x] Dar um Fork no repositório da aula original 
+ - [x] Clonar o repositório para a própria máquina
+ - [x] Criar uma pasta com o seu nome 
+ - [x] Criar um arquivo README.md
+ - [x] Criar função para adição
+ - [x] Criar função para subtração 
+ - [x] Criar função para multiplicação
+ - [x] Criar função para divisão 
+ - [x] Criar função para potenciação
  - [ ] Criar função para conferir se o número é ímpar
- - [ ] Criar uma branch com o seu nome 
- - [ ] Comitar as alterações para a branch criada 
- - [ ] Subir as alterações para o repositóro
+ - [x] Criar uma branch com o seu nome 
+ - [x] Comitar as alterações para a branch criada 
+ - [x] Subir as alterações para o repositóro
  - [ ] Criar um Pull Request
  - [ ] Criar a descrição do pull request 
 
