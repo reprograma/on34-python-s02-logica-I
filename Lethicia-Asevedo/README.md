@@ -44,11 +44,11 @@ Lembramos que o projeto é aberto para modificações e melhorias, caso tenha in
  - [x] Criar função para multiplicação
  - [x] Criar função para divisão 
  - [x] Criar função para potenciação
- - [ ] Criar função para conferir se o número é ímpar
+ - [x] Criar função para conferir se o número é ímpar
  - [x] Criar uma branch com o seu nome 
  - [x] Comitar as alterações para a branch criada 
  - [x] Subir as alterações para o repositóro
- - [ ] Criar um Pull Request
- - [ ] Criar a descrição do pull request 
+ - [x] Criar um Pull Request
+ - [x] Criar a descrição do pull request 
 
 
