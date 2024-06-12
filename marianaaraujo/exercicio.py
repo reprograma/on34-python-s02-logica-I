@@ -17,7 +17,7 @@ else: print(soma, 'é um número ímpar')
 
 #Subtração
 subtração = x - y
-print('Subtração:\n', x, '-', y,'é igual a', subtração)
+print('Subtração:\n', x, '-', y,'=', subtração)
 
 if subtração % 2 == 0: print(subtração, 'é um número par')
 else: print(subtração, 'é um número ímpar')
