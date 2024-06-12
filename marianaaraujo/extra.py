@@ -72,7 +72,7 @@ def salario_liquido(ganho_por_hora, horas_trabalhadas):
     imposto = a_imposto * salario_bruto
     salario_liquido = salario_bruto - inss - sindicato - imposto
     return print('Salário Bruto: R$', salario_bruto,
-                 '\n - IR', '(',(a_imposto),'%): R$', imposto,
+                 '\n - IR', '(',(a_imposto * 100),'%): R$', imposto,
                  '\n - INSS (8%):', inss,
                  '\n - Sindicato (5%): R$', sindicato,
                  '\n = Salário Líquido: R$', salario_liquido)
