@@ -1,10 +1,17 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Calculadora!
+O usuário entrará com dois valores, e será necessário realizar o cálculo deles através destas funções com:
+- somar(x, y): recebe dois números e retorna a soma.
+- subtrair(x, y): recebe dois números e retorna a subtração.
+- multiplicar(x, y): recebe dois números e retorna a multiplicação.
+- dividir(x, y): recebe dois números e retorna a divisão do primeiro pelo segundo
+- potenciação(x, y)
+- trazer se o número resultante de cada operação é ímpar
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Plus:
+- Quem quiser demais operações entre dois números, fique a vontade 🙂
+
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
@@ -16,3 +23,8 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
 - [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
+
+---
+
+## E o exercício extra?
+Coloquei ele dentro do [arquivinho de materiais de estudo](../../material/estudo.md).
