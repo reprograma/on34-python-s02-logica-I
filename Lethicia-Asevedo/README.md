@@ -8,7 +8,7 @@ O código neste repositório é um projeto forkado que contém duas branches pri
 A mesma foi criada para implementar alterações e melhorias sem que o código original seja afetado indevidamente. Se desejar visualizar o projeto no Github, basta selecionar a branch desejada.
 
 
-## O objetivo proposto para a atividade desta semana foi:
+## Objetivo da semana:
 
 Criar uma calculadora, onde o usuário insira dois valores (x,y), e, após a entrada, sejam realizados os cálculos através das seguintes operações:
 
@@ -36,7 +36,7 @@ Divirta-se!
 
 Lembramos que o projeto é aberto para modificações e melhorias, caso tenha interesse em contribuir.
 
-## Checklist
+## Checklist:
 
  - [x] Dar um Fork no repositório da aula original 
  - [x] Clonar o repositório para a própria máquina
