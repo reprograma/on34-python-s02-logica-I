@@ -1,9 +1,12 @@
-## PROJETO REPROGRAMA S02
-
-## Seja bem vindo á minha CALCULADORA !
+## PROJETO REPROGRAMA S02 - CALCULADORA
 
 
 No projeto desta semana, tive a oportunidade de revisar e aprender novos conceitos relacionados a operações básicas em Python, explorando inputs e funções. A aula foi ministrada pela professora Maiara Rodrigues 👧🏻.
+
+## Intruções de uso:
+O código neste repositório é um projeto forkado que contém duas branches principais: `main` e `nova branch`. A nova branch criada no repositório recebeu o nome "Lethicia". O nome não possui um significado específico além de identificar essa branch específica dentro do contexto do projeto.
+A mesma foi criada para implementar alterações e melhorias sem que o código original seja afetado indevidamente. Se desejar visualizar o projeto no Github, basta selecionar a branch desejada.
+
 
 ## O objetivo proposto para a atividade desta semana foi:
 
@@ -50,5 +53,6 @@ Lembramos que o projeto é aberto para modificações e melhorias, caso tenha in
  - [x] Subir as alterações para o repositóro
  - [x] Criar um Pull Request
  - [x] Criar a descrição do pull request 
+ - [x] Alterações finais
 
 
