@@ -56,7 +56,7 @@ horas_totais_obreiros(float(input("Informe quantas pessoas trabalharam na obra p
 def salario_liquido_obreiros(horas):
     salario_bruto = valor_hora*horas
     valor_inss = salario_bruto*0.08
-    valor_sindicato = valor_inss*0.05
+    valor_sindicato = (salario_bruto-valor_inss)*0.05
     salario_liquido = salario_bruto-valor_inss-valor_sindicato
 
     print("Salário Bruto:", salario_bruto, "reais")
