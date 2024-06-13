@@ -11,8 +11,8 @@ Criar uma calculadora, onde o usuário insira dois valores (x,y), e, após a ent
 
 -   Adição
 -   Subtração
--   Multiplicação
 -   Divisão
+-   Multiplicação
 -   Potenciação
 - Indicar se o número resultante de cada operação é ímpar
 
