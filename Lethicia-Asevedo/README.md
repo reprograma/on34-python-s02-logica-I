@@ -19,9 +19,9 @@ Criar uma calculadora, onde o usuário insira dois valores (x,y), e, após a ent
 ***Curiosidade sobre o projeto :***
 A exibição do nome da calculadora foi personalizada neste projeto, a mesma foi feita através de um simples `print("""TEXTODESEJADO""").`  
 A fonte personalizada foi criada através do link: [Site para personalização de fontes](https://fsymbols.com/generators/blocky/). 
-Basta digitar a palavra desejada no campo em branco, escolher entre as diversas opções de personalização oferecidas, copiar e colar o texto gerado dentro do comando, print. 
+Basta digitar a palavra desejada no campo em branco, escolher entre as diversas opções de personalização oferecidas, copiar e colar o texto gerado dentro do comando, print. Esse processo resultará na exibição do nome do seu programa de forma personalizada assim como demonstra a figura abaixo: 
 
-
+<img src="/Lethicia-Asevedo/assets/print-prompt.png" alt="Imagem prompt personalizado" />
 
 Caso deseje testar a atividade praticada neste repositório, siga os seguintes passos:
 
