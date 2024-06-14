@@ -22,6 +22,12 @@ def multiplicar (x, y):
     Resultado = x * y
     print (Resultado)
 
+def dividir (x, y):
+    Resultado = x / y
+    print (Resultado)
+
+    
+
 # Entrada dos Valores
 x = int(input("Digite um número"))
 y = int(input("Digite outro número"))
