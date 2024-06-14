@@ -11,11 +11,15 @@ Trazer se o número resultante de cada operação é ímpar.
 """
 # Funções
 def soma (x, y):
-    Resultado = x+y
+    Resultado = x + y
     print (Resultado)
 
 def subtrair (x, y):
-    Resultado = x-y
+    Resultado = x - y
+    print (Resultado)
+
+def multiplicar (x, y):
+    Resultado = x * y
     print (Resultado)
 
 # Entrada dos Valores
