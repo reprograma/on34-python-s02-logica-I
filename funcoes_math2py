@@ -1,0 +1,31 @@
+import math
+
+print (math.ceil(10/3)) #arredonda pra cima
+print (math.floor(10/3)) #arredonda pra baixo
+
+numero_decimal = 1.8942384023
+print (math.trunc(numero_decimal)) # numero inteiro, sem quebrados
+
+x = 2 * (4+8)
+y = 2*4+8
+print (x)
+print (y)
+
+#eu ganho 5000
+#meu esposo ganha 7000
+#qual a renda da minha casa?
+#qual a renda média de todos os salários?
+
+salario_meu = 5000
+salario_esposo = 7000
+renda_da_casa = (salario_meu+salario_esposo)
+print ("A renda total da casa é", renda_da_casa)
+
+media_salario = ((salario_meu+salario_esposo)/2)
+print ("O salário médio da casa é:",  media_salario)
+
+#ou
+media_salario = ((renda_da_casa)/2)
+print ("O salário médio da casa é:",  media_salario)
+
+
