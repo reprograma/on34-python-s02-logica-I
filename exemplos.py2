@@ -1,0 +1,4 @@
+#Exercício Prof.
+nome = "samantha"
+
+print ( "Olá mundo,", nome)
